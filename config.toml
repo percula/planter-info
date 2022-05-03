@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://info.planter.garden"
+baseURL = "https://splendorous-donut-736dc5.netlify.app/" #"https://info.planter.garden" TODO
 title = "Planter Documentation"
 theme = "godocs-3"
 # google analytics
